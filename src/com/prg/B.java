@@ -5,6 +5,7 @@ public class B extends A {
 		System.out.println("Hello...Good afternoon");
 		System.out.println("hi..all");
 		System.out.println("hi..");
+		System.out.println("Bye..");
 	}
 
 	public static void main(String[] args) {
